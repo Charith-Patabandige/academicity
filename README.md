@@ -1,3 +1,8 @@
+Deployed Web App - https://academicity.netlify.app/
+
+![Academicity-project](https://github.com/user-attachments/assets/f96a6643-aa28-48cd-946f-f3ac16c90666)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
